@@ -1,4 +1,4 @@
-=== WC City Select ===
+=== Palnode City Select ===
 Contributors: mantish, rwky,Osward
 Donate link: mailto:oswardna@gmail.com
 Tags: woocommerce, cities, city, city select, cities select, city dropdown, cities dropdown, woocommerce city, woocommerce cities
