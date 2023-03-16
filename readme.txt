@@ -1,6 +1,6 @@
 === WC City Select ===
-Contributors: mantish, rwky, jonaskirch
-Donate link: mailto:paypal@8manos.com
+Contributors: mantish, rwky,Osward
+Donate link: mailto:oswardna@gmail.com
 Tags: woocommerce, cities, city, city select, cities select, city dropdown, cities dropdown, woocommerce city, woocommerce cities
 Requires at least: 4.0
 Tested up to: 5.8
@@ -58,7 +58,7 @@ function my_cities( $cities ) {
 
 ### Github
 
-Source code and contributions at [github](https://github.com/8manos/wc-city-select)
+Source code and contributions at [github](https://github.com/oswardna/palnode_city_select)
 
 == Changelog ==
 
@@ -69,7 +69,7 @@ Source code and contributions at [github](https://github.com/8manos/wc-city-sele
 * Version bump without changes. Update if missing city files for new countries.
 
 = 1.0.4 =
-* Add city files for several countries: EC, DK, CA, CN, IT, BR, RO.
+* Add city files for several countries: EC, DK, CA, CN, IT, BR, RO, UG
 * fix warnings when using multiple countries.
 
 = 1.0.3 =
