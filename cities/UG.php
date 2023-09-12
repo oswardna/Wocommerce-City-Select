@@ -38,6 +38,7 @@ $cities['UG'] = array(
             'Nakawa',
             'Namirembe',
             'Port Bell',
-            'Kitintale'
+            'Kitintale',
+            'Kirombe'
         )
     );
