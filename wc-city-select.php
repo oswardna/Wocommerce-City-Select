@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Palnode City Select
+ * Plugin Name: Wocommerce City Select
  * Plugin URI:  https://palnode.com
  * Description: City Select for WooCommerce. Show a dropdown select as the cities input.
  * Version:     1.0.6
