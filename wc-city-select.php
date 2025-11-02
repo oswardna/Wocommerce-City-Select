@@ -4,7 +4,7 @@
  * Plugin URI:  https://palnode.com
  * Description: City Select for WooCommerce. Show a dropdown select as the cities input.
  * Version:     1.0.6
- * Author:      Osward Nasasira | Palnode
+ * Author:      Palnode
  * Author URI:  http://palnode.com
  * License:     GPLv2 or later
  * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
