@@ -110,3 +110,19 @@ $cities['UG'] = array(
     'Zzana'
         )
     );
+
+    $cities['UG'] = array(
+        'UG113' => array(
+            'Sakodi',
+            'Bluetag'
+        ),
+/**
+ * Wakiso
+ */
+        'UG102' => array(
+            'Budo',
+    'Bugolobi',
+    
+    
+    )
+        );
